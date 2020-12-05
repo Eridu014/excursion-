@@ -1,0 +1,58 @@
+* {
+    background-color: black;
+    color: white;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+h1 {
+    display: inline-block;
+    width: 100%;
+    text-align: center;
+    font-weight: bold;
+    padding: 20px;
+    line-height: 1.7;
+    font-size: 300%;
+}
+h2 {
+    display: inline-block;
+    width: 100%;
+    text-align: center;
+    font-weight: bold;
+    padding: 20px;
+    line-height: 1.7;
+    color: rgba(229, 250, 211, 0.8);
+}
+
+video {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 400px;
+    padding: 30px;
+}
+
+.cta {
+    width: 100%;
+    display: block;
+    text-align: center;
+    color: lightgreen;
+    font-size: 1.3em;
+}
+
+.app {
+    height: 100px;
+    color: lightgreen;
+    padding: 20px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+.camp {
+    display: block;
+    text-align: center;
+}
+.footer {
+    color: hba(255, 255, 255);
+    text-align: right;
+    display: right;
+}
